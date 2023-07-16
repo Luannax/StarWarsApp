@@ -6,21 +6,25 @@ Visualização do app StarWars:
 
 <img 
   width=20% 
+  display = flex
   src="./assets/Tela Inicial.png"
   />
 
   <img 
   width=20% 
+  display = flex
   src="./assets/Triologia1.png"
   />
 
   <img 
   width=20% 
+  display = flex
   src="./assets/Triologia2.png"
   />
 
   <img 
-  width=20% 
+  width=20%
+  display = flex
   src="./assets/Triologia3.png"
   />
 
